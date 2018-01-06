@@ -61,11 +61,12 @@ else if (a == 0 && b == 0 && !duuniaika) {
 	minuutit.innerHTML = b;
  
 	a = 59;
+	sekunnit.innerHTML = a;
 	}
 
 }
 function paalle() {
-	kello = setInterval(laskuri, 10)
+	kello = setInterval(laskuri, 1000)
 	}
 
 
