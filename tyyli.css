@@ -1,0 +1,38 @@
+.nappulat {
+	width: 600px;
+	margin: 1px solid black;
+	margin: auto;
+	text-align:center;
+
+}
+
+.button {
+	background-color: white;
+	border-style: none;
+	margin: auto;
+	padding: 15px 32px;
+	font-size: 20px;
+	display: inline-block;
+}
+
+.näyttö {
+	display: inline-block;
+	font-size:200px;
+	color:#A52A2A;
+
+}
+
+#tausta {
+	margin:auto;
+	width:600px;
+	text-align:center;
+	background-color: black;
+	border-radius: 25px;
+}
+
+#status {
+	margin:auto;
+	text-align:center;
+	padding-top: 40px;
+	font-size: 50px;
+}
